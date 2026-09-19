@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>25G229</string>
+	<key>CFBundleDisplayName</key>
+	<string>SnapClip</string>
+	<key>CFBundleExecutable</key>
+	<string>SnapClip</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourname.snapclip</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>SnapClip</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>26A425</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>27.0</string>
+	<key>DTSDKBuild</key>
+	<string>26A425</string>
+	<key>DTSDKName</key>
+	<string>macosx27.0</string>
+	<key>DTXcode</key>
+	<string>2700</string>
+	<key>DTXcodeBuild</key>
+	<string>27A266a</string>
+	<key>LSBackgroundOnly</key>
+	<false/>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>SnapClip needs access to your Desktop to watch for new screenshots.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>SnapClip needs folder access to display and copy your screenshots.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>SnapClip needs folder access to display and copy your screenshots.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026. All rights reserved.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>com.apple.security.app-sandbox</key>
+	<true/>
+	<key>com.apple.security.files.downloads.read-only</key>
+	<true/>
+	<key>com.apple.security.files.user-selected.read-only</key>
+	<true/>
+</dict>
+</plist>
