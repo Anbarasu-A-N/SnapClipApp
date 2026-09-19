@@ -11,7 +11,7 @@
 ## Install — one command
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Anbarasu-A-N/SnapClip/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Anbarasu-A-N/SnapClipApp/main/install.sh | bash
 ```
 
 That's it. SnapClip downloads, installs to `/Applications`, and launches automatically.
@@ -66,7 +66,7 @@ After installing, go to:
 ## Uninstall
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Anbarasu-A-N/SnapClip/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Anbarasu-A-N/SnapClipApp/main/uninstall.sh | bash
 ```
 
 Or just drag `/Applications/SnapClip.app` to Trash.
@@ -76,8 +76,8 @@ Or just drag `/Applications/SnapClip.app` to Trash.
 ## Build from source
 
 ```bash
-git clone https://github.com/Anbarasu-A-N/SnapClip.git
-cd SnapClip
+git clone https://github.com/Anbarasu-A-N/SnapClipApp.git
+cd SnapClipApp
 open SnapClip.xcodeproj
 # Press ⌘R in Xcode
 ```
