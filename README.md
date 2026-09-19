@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="SnapClip/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="100" alt="SnapClip">
   <h1>SnapClip</h1>
   <p>Screenshot clipboard manager for macOS — lives in your menubar</p>
   <img src="https://img.shields.io/badge/macOS-14%2B-brightgreen?style=flat-square">
