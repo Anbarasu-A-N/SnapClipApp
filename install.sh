@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # SnapClip Installer
-# Usage: curl -fsSL https://raw.githubusercontent.com/YOURNAME/snapclip/main/install.sh | bash
+# Usage: curl -fsSL https://raw.githubusercontent.com/Anbarasu-A-N/SnapClipApp/main/install.sh | bash
 
 set -e
 
@@ -13,7 +13,7 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 BOLD='\033[1m'
 
-REPO="YOURNAME/snapclip"
+REPO="Anbarasu-A-N/SnapClipApp"
 APP_NAME="SnapClip"
 MIN_MACOS="14.0"
 
