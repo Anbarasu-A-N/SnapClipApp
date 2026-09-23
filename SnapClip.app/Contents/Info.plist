@@ -44,6 +44,8 @@
 	<string>2700</string>
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
 	<key>LSBackgroundOnly</key>
 	<false/>
 	<key>LSMinimumSystemVersion</key>
