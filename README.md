@@ -16,6 +16,12 @@ curl -fsSL https://raw.githubusercontent.com/Anbarasu-A-N/SnapClipApp/main/insta
 ```
 
 That's it. SnapClip downloads, installs to `/Applications`, and launches automatically.
+# If the above command fails, then try this
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Anbarasu-A-N/SnapClipApp/main/install.sh -o install.sh
+bash -x install.sh
+```
 
 ---
 
