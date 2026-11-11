@@ -42,6 +42,7 @@ bash -x install.sh
 - ⌘ **Cmd+Click** to add/remove individual screenshots from your selection
 - ⇧ **Shift+Click** to select a range of screenshots at once
 - 📋 All selected screenshots are copied together — paste them anywhere with ⌘V
+- 📅 **Filter by date & time** — click the calendar chip next to the day header to show only screenshots from a chosen range (with quick presets: Last hour, Today, Yesterday, Last 7 days)
 - 🌙 Dark / Light / System theme
 - ⚡ Native SwiftUI — fast, no Electron, no bloat
 - 🔒 No network access, no tracking
